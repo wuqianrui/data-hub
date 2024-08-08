@@ -8,6 +8,27 @@
 
 国旗数据集合，数据来源 [flag icons](https://flagicons.lipis.dev/) 网站
 
+## 数据结构说明
+
+```json
+{
+      "code": "zw",
+      "country": "Zimbabwe",
+      "image": "https://flagicons.lipis.dev/flags/4x3/zw.svg",
+      "no": "244",
+      "chinaName": "津巴布韦",
+      "country": "Zimbabwe",
+      "country-code1": "ZW",
+      "country-code2": "ZWE",
+      // （数字代码）
+      "number": "716",
+      // 电话区号
+      "phonePrefix": "263",
+      "websiteSuffix": ".zw"
+    }
+```
+
+
 ## 移除的数据
 
 ```json
